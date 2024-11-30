@@ -1,6 +1,6 @@
-# Analise de Documentos Anti-fraude utlizando AzureAI
+# Analise de cartões Anti-fraude utlizando AzureAI
 
-Análise de Documentos Anti-fraude com AzureAI
+Análise de cartões Anti-fraude com AzureAI
 
 # Recurso utilizando
 
